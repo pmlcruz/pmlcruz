@@ -20,6 +20,9 @@ Here are some ideas to get you started:
   <img align="center" alt="alunapamelacruzHTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"">
   <img align="center" alt="alunapamelacruzCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 
+<a href="https://www.codewars.com/users/alunapamelacruz/badges/large">Codewars</a>                                                                                                                                                     
+                                                                                                                                                     
+                                                                                                                                                     
 </div>
   <img align="right" alt="pml-pic" height="150" style="border-radius:60px;" src="https://media.tenor.com/WxbALsyxywcAAAAM/cyber-monday.gif">                          
 </div>
