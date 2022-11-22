@@ -1,10 +1,5 @@
 ### Olá 👋
 
-
-<-- **alunapamelacruz/alunapamelacruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
-
 - 🔭 I’m currently working on Projetos pessoais e de aula
 - 🌱 I’m currently learning ... JS, Python e PHP
 - 👯 I’m looking to collaborate on ... Projetos iniciantes
@@ -19,8 +14,6 @@ Here are some ideas to get you started: -->
   <img align="center" alt="alunapamelacruzREACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="alunapamelacruzHTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"">
   <img align="center" alt="alunapamelacruzCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-
-https://www.codewars.com/users/alunapamelacruz/badges/large                                                                                                                                                 
                                                                                                                                                      
                                                                                                                                                      
 </div>
