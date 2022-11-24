@@ -8,9 +8,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alunapamelacruz&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alunapamelacruz&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 <img src="https://www.codewars.com/users/alunapamelacruz/badges/large"/> 
 
 <div style="display: inline_block"><br>
