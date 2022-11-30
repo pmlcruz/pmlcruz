@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <a href="https://pmlgcz.carrd.co">
+  <a href="https://github.com/alunapamelacruz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alunapamelacruz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alunapamelacruz&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -18,7 +18,7 @@
                                                                                                                                                      
 </div>
   <img align="right" alt="pml-pic" height="150" style="border-radius:60px;" src="https://media.tenor.com/WxbALsyxywcAAAAM/cyber-monday.gif">    
-                                                                                                                                            </div>
+</div>
 
                                                                                                                                           
 
