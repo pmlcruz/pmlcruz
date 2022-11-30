@@ -17,8 +17,6 @@
   <img align="center" alt="alunapamelacruzCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">                                                                                           
                                                                                                                                                      
 </div>
-  <img align="right" alt="pml-pic" height="150" style="border-radius:60px;" src="https://media.tenor.com/WxbALsyxywcAAAAM/cyber-monday.gif">    
-</div>
-
+ 
                                                                                                                                           
 
