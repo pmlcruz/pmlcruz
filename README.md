@@ -1,5 +1,5 @@
 <h1 align="center">Olá! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"/> Me chamo <a href="https://github.com/alunapamelacruz?tab=repositories/" target="blank">
-Pamela Cruz.</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"  <img src="https://slackmojis.com/emojis/10521-meow_code">  width="28"/></h1>
+Pamela Cruz.</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
 <h3 align="center">Desenvolvedora full stack em desenvolvimento</h3>
 
 <a target="_blank" align="center">
@@ -8,6 +8,8 @@ Pamela Cruz.</a> <img src="https://emojis.slackmojis.com/emojis/images/153184943
 
 
 - 🔭 Graduanda em Análise e desenvolvimento de sistemas e estudante de Desenvolvimento web full stack <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BR.svg" width="25" height="18"/>
+
+- 🎩 Entusiasta de Cyber séc.
 
 - 🌱 Competências tech ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 
