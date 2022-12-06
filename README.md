@@ -1,5 +1,5 @@
 <h1 align="center">Olá! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"/> Me chamo <a href="https://github.com/alunapamelacruz?tab=repositories/" target="blank">
-Pamela Cruz.</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
+Pamela Cruz.</a> <img src="(https://joypixels.com/profiles/animated/alien)" width="28"/></h1>
 <h3 align="center">Desenvolvedora full stack em desenvolvimento</h3>
 
 <a target="_blank" align="center">
