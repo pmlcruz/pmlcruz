@@ -19,12 +19,12 @@ Pamela Cruz.</a> <img src="https://emojis.slackmojis.com/emojis/images/164351486
 
 
 <br/>
-<h3 align="center" > <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="30" height="30"/>&nbsp;Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"/> </h3>
+<h3 align="center" > <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80" height="30"/>&nbsp;Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"/> </h3>
 <div align="center"  class="icons-social" style="margin-left: 10px;">
 <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/pamelacruz-fullstack/">
-<img src="https://emojis.slackmojis.com/emojis/images/1643514111/711/linkedin.png?1643514111"></a>
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/pmlgcz/">
-<img src="https://emojis.slackmojis.com/emojis/images/1643514104/632/instagram.png?1643514104"></a>
+<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
 <p align="center">
