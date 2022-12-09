@@ -13,7 +13,7 @@ Pamela Cruz.</a>
 
 • Como me contatar: *pamelacruz.ads@gmail.com*
 	
-	https://www.codewars.com/users/pmlgcz/badges/small
+     
 
 <br/>
 <h3 align="center" > <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80" height="30"/>&nbsp;Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"/> </h3>
