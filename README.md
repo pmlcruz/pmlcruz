@@ -3,7 +3,8 @@ Pamela Cruz.</a>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47ts7vogtoatvn6j705yqtb6x08vwsm3kxhgdcue2m&rid=giphy.gif&ct=g"/>
 </a>
-
+<br>
+<br>
 
 - Graduanda em Análise e desenvolvimento de sistemas e estudante de Desenvolvimento web full stack <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BR.svg" width="25" height="18"/>
 
