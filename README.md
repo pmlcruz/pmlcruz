@@ -1,7 +1,7 @@
 <h1 align="center">Olá! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"/> Me chamo <a href="https://github.com/alunapamelacruz?tab=repositories/" target="blank">
 Pamela Cruz.</a> 
-<br>
-<br>
+<br/>
+<br/>
 
 Graduanda em Análise e desenvolvimento de sistemas e estudante de Desenvolvimento web full stack <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BR.svg" width="25" height="18"/>
 
@@ -12,6 +12,7 @@ Competências tech: ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat
 Competências soft: Criatividade, proatividade, tomada de decisão.
 
 Como me contatar: *pamelacruz.ads@gmail.com*
+	
 	
 	<img align="center" src="https://www.codewars.com/users/pmlgcz/badges/large"/>
 
