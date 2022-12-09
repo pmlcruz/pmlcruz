@@ -1,8 +1,5 @@
 <h1 align="center">Olá! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"/> Me chamo <a href="https://github.com/alunapamelacruz?tab=repositories/" target="blank">
 Pamela Cruz.</a> 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47ts7vogtoatvn6j705yqtb6x08vwsm3kxhgdcue2m&rid=giphy.gif&ct=g"/>
-</a>
 <br>
 <br>
 
