@@ -34,7 +34,7 @@ Pamela Cruz.</a>
 
 | My statistic                                                                                                                                                            | Main languages                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=alunapamelacruz&show_icons=true&hide_border=true&count_private=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alunapamelacruz&langs_count=10&count_private=true&hide_border=true&theme=radical&layout=compact) |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=pmlcruz&show_icons=true&hide_border=true&count_private=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pmlcruz&langs_count=10&count_private=true&hide_border=true&theme=radical&layout=compact) |
 
 
  <div align="center">
